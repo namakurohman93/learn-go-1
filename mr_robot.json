@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Elliot Alderson",
+        "profession": "Cybersecurity Engineer",
+        "affiliation": "fsociety",
+        "status": "alive",
+        "picture": "https://static.wikia.nocookie.net/mrrobot/images/3/3e/Elliot.jpg/revision/latest?cb=20150810201239"
+    },
+    {
+        "id": 2,
+        "name": "Darlene Alderson",
+        "profession": "Hacker",
+        "affiliation": "fsociety",
+        "status": "alive",
+        "picture": "https://static.wikia.nocookie.net/mrrobot/images/5/5c/Tumblr_96060a66d3af926ec3f638882b6ebb79_b2da2bc6_640.jpg/revision/latest?cb=20190928213622"
+    },
+    {
+        "id": 3,
+        "name": "Mr. Robot",
+        "profession": "Hacker",
+        "affiliation": "fsociety",
+        "status": "imaginary",
+        "picture": "https://static.wikia.nocookie.net/mrrobot/images/4/40/Tumblr_9e63f38c6b4ab8b60b7af43ad8a40584_b5200ced_640.jpg/revision/latest?cb=20190928213859"
+    },
+    {
+        "id": 4,
+        "name": "Angela Moss",
+        "profession": "Account Executive",
+        "affiliation": "Dark Army",
+        "status": "deceased",
+        "picture": "https://static.wikia.nocookie.net/mrrobot/images/4/4a/Tumblr_8a25712b9121eb8069ff575b842b9fc9_990d4100_1280.jpg/revision/latest?cb=20190928214750"
+    },
+    {
+        "id": 5,
+        "name": "Tyrell Wellick",
+        "profession": "Senior Vice President of Technology",
+        "affiliation": "E Corp",
+        "status": "deceased",
+        "picture": "https://static.wikia.nocookie.net/mrrobot/images/1/1a/Mr.-Robot-1x04-3.jpg/revision/latest?cb=20150725100044"
+    },
+    {
+        "id": 6,
+        "name": "Sunil Markesh",
+        "profession": "Hacker",
+        "affiliation": "fsociety",
+        "status": "deceased",
+        "picture": "https://static.wikia.nocookie.net/mrrobot/images/6/6d/Mobley.png/revision/latest?cb=20150826004026"
+    },
+    {
+        "id": 7,
+        "name": "Leslie Romero",
+        "profession": "Hacker",
+        "affiliation": "fsociety",
+        "status": "deceased",
+        "picture": "https://static.wikia.nocookie.net/mrrobot/images/2/2b/Romero.jpg/revision/latest?cb=20150807160301"
+    },
+    {
+        "id": 8,
+        "name": "Shama Biswas",
+        "profession": "Hacker",
+        "affiliation": "fsociety",
+        "status": "deceased",
+        "picture": "https://static.wikia.nocookie.net/mrrobot/images/1/1e/Trenton.png/revision/latest?cb=20150810142611"
+    }
+]
