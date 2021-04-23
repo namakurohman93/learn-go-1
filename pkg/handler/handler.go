@@ -1,6 +1,9 @@
-package pkg
+package handler
 
-import "net/http"
+import (
+	"github.com/didadadida93/learn-go-1/pkg/character"
+	"net/http"
+)
 
 func RootHandler(w http.ResponseWriter, r *http.Request) {
 	w.Write([]byte("root handler\n"))
@@ -11,7 +14,7 @@ func PingHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func CharacterHandler(w http.ResponseWriter, r *http.Request) {
-	characterByte, err := GetCharacterByte()
+	characterByte, err := character.GetCharacterByte()
 	if err != nil {
 		w.Write([]byte("error has been occured"))
 		return
